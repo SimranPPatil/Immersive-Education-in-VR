@@ -1,5 +1,5 @@
 # Immersive Education in Virtual Reality
-This project contains an educational modules that can be used to teach certain concepts that can be better
+This project contains educational modules that can be used to teach certain concepts that can be better
 learned in VR in a fun and immersive way.
 
 This video gives a quick glimpse of the project:
@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=RWzIYHJhtBc
 It contains the following modules:
 
 Homedeck:
-This is the start up screen that the user will be greeted with. It offers the user the ability to choose from
+This is the screen that the user will be greeted with. It offers the user the ability to choose from
 either of the two educational modules: 
     1. K-D Trees
     2. Quaternions
